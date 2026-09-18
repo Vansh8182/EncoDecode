@@ -26,8 +26,6 @@ python3 base.py
 
 ## Usage
 
-When prompted, enter any IP address:
-
 ```
 === Encoede ==
 1. Encode64
