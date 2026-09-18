@@ -11,17 +11,17 @@ git clone https://github.com/Vansh8182/ip-geolocation-lookup.git
 
 2. Enter the folder:
 ```
-cd ip-geolocation-lookup
+cd EncoDecode
 ```
 
 3. Make the script executable:
 ```
-chmod +x ip-lookup.sh
+chmod +x base.py
 ```
 
 4. Run it:
 ```
-./ip-lookup.sh
+python3 base.py
 ```
 
 ## Usage
@@ -29,14 +29,17 @@ chmod +x ip-lookup.sh
 When prompted, enter any IP address:
 
 ```
-Enter IP address: 8.8.8.8
-CITY: Ashburn
-REGION: Virginia
-COUNTRY: United States
-ZIP: 20149
-LAT: 39.03
-LON: -77.5
-TIMEZONE: America/New_York
+=== Encoede ==
+1. Encode64
+2. Encode32
+
+=== Decode ==
+3. Decode64
+4. Decode32
+Enter Number: 1
+Encode text: hello
+Encoded: aGVsbG8=
+
 ```
 
 ## License
