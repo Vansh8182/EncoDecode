@@ -1,8 +1,4 @@
 # EncoDecode
-# base64-32-tool
-
-A simple Bash script to encode and decode text using Base64 and Base32.
-
 ## Installation
 
 1. Clone the repository:
@@ -23,18 +19,8 @@ cd repo-name
 chmod +x tool-name.sh
 \`\`\`
 
-## Usage
+4. Run it:
 
-Encode:
 \`\`\`bash
-./tool-name.sh encode --base64 "your text"
+./tool-name.sh
 \`\`\`
-
-Decode:
-\`\`\`bash
-./tool-name.sh decode --base64 "SGVsbG8="
-\`\`\`
-
-## License
-
-MIT License
