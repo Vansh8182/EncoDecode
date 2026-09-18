@@ -6,7 +6,7 @@ A simple Bash script to encode and decode text using Base64 and Base32.
 
 1. Clone the repository:
 ```
-git clone https://github.com/Vansh8182/ip-geolocation-lookup.git
+git clone https://github.com/Vansh8182/EncoDecode.git
 ```
 
 2. Enter the folder:
